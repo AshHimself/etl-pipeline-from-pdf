@@ -4,5 +4,5 @@ A quick example on how you can ingest a PDF document with a table into a Pandas 
 
 ## What we built
 <p align="center">
-  <img src="https://i.imgur.com/rxZaMEw.png" width="600">
+  <img src="https://i.imgur.com/xIDl1E8.png" width="600">
 </p>
